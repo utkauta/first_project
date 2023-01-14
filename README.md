@@ -8,7 +8,7 @@
 - ночь
 - новый день
 - дз по Turtle 
-
+- import turtle
 
 
 
